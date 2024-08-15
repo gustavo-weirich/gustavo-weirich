@@ -8,7 +8,7 @@
 
 - ✨ Creating bugs since 2019
 - 📚 I'm currently learning english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" /> and studying Analysis and Systems Development 🖥️
-- 🎯 Goals: live in a cold place ❄ and speak english 🚀
+- 🎯 Goals: work as a software developer 👨‍💻 and speak english 🚀
 - 🎲 And ... i play video games 🎮🕹️ and 📖📜 read often
 
 
